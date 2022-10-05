@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.comp301.a09nonograms.AppTest" time="0.04" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="15"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/emmajia/IdeaProjects/a09-nonograms-wemmajia/target/test-classes:/Users/emmajia/IdeaProjects/a09-nonograms-wemmajia/target/classes:/Users/emmajia/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/emmajia/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-controls/14/javafx-controls-14.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-controls/14/javafx-controls-14-mac.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-graphics/14/javafx-graphics-14.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-graphics/14/javafx-graphics-14-mac.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-base/14/javafx-base-14.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-base/14/javafx-base-14-mac.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-fxml/14/javafx-fxml-14.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-fxml/14/javafx-fxml-14-mac.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/Users/emmajia/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/emmajia/IdeaProjects/a09-nonograms-wemmajia/target/surefire/surefirebooter18057785858061011809.jar /Users/emmajia/IdeaProjects/a09-nonograms-wemmajia/target/surefire 2021-11-29T17-13-57_580-jvmRun1 surefire18446207285951424170tmp surefire_014591601887442419116tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/emmajia/IdeaProjects/a09-nonograms-wemmajia/target/test-classes:/Users/emmajia/IdeaProjects/a09-nonograms-wemmajia/target/classes:/Users/emmajia/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/emmajia/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-controls/14/javafx-controls-14.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-controls/14/javafx-controls-14-mac.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-graphics/14/javafx-graphics-14.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-graphics/14/javafx-graphics-14-mac.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-base/14/javafx-base-14.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-base/14/javafx-base-14-mac.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-fxml/14/javafx-fxml-14.jar:/Users/emmajia/.m2/repository/org/openjfx/javafx-fxml/14/javafx-fxml-14-mac.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/emmajia"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.home" value="/Users/emmajia/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/emmajia/IdeaProjects/a09-nonograms-wemmajia"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/Users/emmajia/IdeaProjects/a09-nonograms-wemmajia/target/surefire/surefirebooter18057785858061011809.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="15.0.2+7-27"/>
+    <property name="user.name" value="emmajia"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.16"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/emmajia/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/g_/519vfgcs4x5gty12srmdp_0m0000gn/T/"/>
+    <property name="idea.version" value="2020.3.2"/>
+    <property name="java.version" value="15.0.2"/>
+    <property name="user.dir" value="/Users/emmajia/IdeaProjects/a09-nonograms-wemmajia"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.library.path" value="/Users/emmajia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="15.0.2+7-27"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="59.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.comp301.a09nonograms.AppTest" time="0.001"/>
+  <testcase name="testBoard" classname="com.comp301.a09nonograms.AppTest" time="0.005"/>
+  <testcase name="testController" classname="com.comp301.a09nonograms.AppTest" time="0.002"/>
+  <testcase name="test1" classname="com.comp301.a09nonograms.AppTest" time="0"/>
+</testsuite>
